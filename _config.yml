@@ -6,7 +6,7 @@ baseurl: ""
 #url: "http://starlakes.tk"
 
 # Build settings
-#markdown: kramdown
-markdown: rdiscount
+pygments: true
+#markdown: rdiscount
+markdown: kramdown
 permalink: pretty
-#pygments: true
