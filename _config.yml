@@ -1,1 +1,2 @@
-baseurl: /starlake
+markdown: rdiscount
+pygments: true
